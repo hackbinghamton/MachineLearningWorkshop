@@ -2,12 +2,7 @@
 
 ## Getting Started
 
-In this workshop, we'll be going over everything machine learning. We'll be using `scikit-learn` and Tensorflow to apply machine learning to problems like:
-
-* Recognizing hand-written symbols
-* Estimating housing prices
-* Predicting stock prices
-* Identifying fake news
+In this workshop, we'll be going over everything machine learning. Machine learning is the study of writing programs that get better at solving problems with experience. We'll be using `scikit-learn` and Tensorflow to apply machine learning to problems like recognizing hand-written symbols, estimating housing prices, predicting stock prices, and identifying fake news.
 
 ## Sections
 
