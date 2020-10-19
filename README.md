@@ -26,7 +26,7 @@ If you're feeling comfortable, check out our more project-focused sections:
 Applying scikit-learn and Tensorflow to predict housing prices given statistics about a given area!
 * **[Stock Price Prediction](https://colab.research.google.com/github/HackBinghamton/MachineLearningWorkshop/blob/main/stock_price_prediction/stock_price_prediction.ipynb)** - 
 Using scikit-learn to predict stock prices based on news language!
-* **[](https://colab.research.google.com/github/HackBinghamton/MachineLearningWorkshop/blob/main/fake_news_detection/Fake%20News%20Detection%20with%20Tensorflow.ipynb)** - 
+* **[Fake News Detection with Tensorflow](https://colab.research.google.com/github/HackBinghamton/MachineLearningWorkshop/blob/main/fake_news_detection/Fake%20News%20Detection%20with%20Tensorflow.ipynb)** - 
 Using Tensorflow to identify fake news!
 
 ## Feedback
