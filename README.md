@@ -18,7 +18,7 @@ How to use Tensorflow to build and apply neural networks!
 If you're feeling comfortable, check out our more project-focused sections:
 
 * **[Housing Price Prediction with Machine Learning](https://colab.research.google.com/github/HackBinghamton/MachineLearningWorkshop/blob/main/housing_price_prediction.ipynb)** - 
-Applying scikit-learn and Tensorflow to predict housing prices given statistics about a given area!
+Applying scikit-learn and Tensorflow to predict housing prices given statistics about the area!
 * **[Stock Price Prediction](https://colab.research.google.com/github/HackBinghamton/MachineLearningWorkshop/blob/main/stock_price_prediction/stock_price_prediction.ipynb)** - 
 Using scikit-learn to predict stock prices based on news language!
 * **[Fake News Detection with Tensorflow](https://colab.research.google.com/github/HackBinghamton/MachineLearningWorkshop/blob/main/fake_news_detection/Fake%20News%20Detection%20with%20Tensorflow.ipynb)** - 
