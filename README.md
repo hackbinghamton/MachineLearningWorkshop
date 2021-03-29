@@ -26,4 +26,4 @@ Using Tensorflow to identify fake news!
 
 ## Feedback
 
-We hope you enjoyed the workshop! Let us know any feedback you have [here](https://forms.gle/9ucaE3qRzz5ZXyAN8).
+We hope you enjoyed the workshop! Let us know any feedback you have [here](https://forms.gle/LKY2CjZCR4yXP86z9).
