@@ -10,10 +10,10 @@ If you're just getting started out, be sure to check out our introductory sectio
 
 * **[Intro to scikit-learn](https://colab.research.google.com/github/HackBinghamton/MachineLearningWorkshop/blob/main/intro_ml_scikit.ipynb)** - 
 How to use `sklearn`'s regressions to quickly solve ML problems!
-* **[Intro to Neural Networks](https://colab.research.google.com/github/HackBinghamton/MachineLearningWorkshop/blob/main/IntroToNeuralNetworks.ipynb)** - 
+* **[Intro to Neural Networks](https://colab.research.google.com/drive/1m6HLU1xwiTwPXMYZqF12IGrfKzqoSZdZ?authuser=1)** - 
 A primer on what neural networks are, how they work, and how they're built!
 
-* **[Advanced Neural Networks](https://colab.research.google.com/github/HackBinghamton/MachineLearningWorkshop/blob/main/.ipynb_checkpoints/Advanced%20Neural%20Networks-checkpoint.ipynb)** - Going more in depth on topics involving neural networks!
+* **[Advanced Neural Networks](https://colab.research.google.com/drive/1NOaueyeERg0ueNBX0KaEFWPBfbDpbWUI?authuser=1)** - Going more in depth on topics involving neural networks!
 * **[Intro to Tensorflow](https://colab.research.google.com/github/HackBinghamton/MachineLearningWorkshop/blob/main/intro_neural_networks_tf.ipynb)** - 
 How to use Tensorflow to build and apply neural networks!
 
